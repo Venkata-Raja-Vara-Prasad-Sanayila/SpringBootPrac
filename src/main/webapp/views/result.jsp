@@ -6,7 +6,7 @@
 
 <body>
 
-<h1> The result is <%= session.getAttribute("result") %> </h1>
+<h1> The result is ${result} </h1>
 
 </body>
 
